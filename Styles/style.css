@@ -1,0 +1,17 @@
+.mobile-img:hover{
+    animation-duration: 200ms;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: .6s;
+    background-color: whitesmoke; 
+}
+.mobile img:hover{
+    transform: scale(1.02);
+    cursor: pointer;
+    transition: .8s; 
+}
+.box-khim1:hover{
+    margin-left: 10px;
+    transition: .7s;
+    cursor: pointer;
+}
